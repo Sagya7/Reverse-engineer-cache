@@ -1,0 +1,18 @@
+﻿Build started 10/19/2022 8:50:05 PM.
+     1>Project "C:\Users\SWalishe\Desktop\RECache\RECache\RECache.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp main2.cpp
+         main.cpp
+         main2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SWalishe\Desktop\RECache\x64\Release\RECache.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\SWalishe\Desktop\RECache\x64\Release\RECache.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SWalishe\Desktop\RECache\x64\Release\RECache.lib" /MACHINE:X64 x64\Release\main.obj
+         x64\Release\main2.obj
+         Generating code
+         All 141 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         RECache.vcxproj -> C:\Users\SWalishe\Desktop\RECache\x64\Release\RECache.exe
+     1>Done Building Project "C:\Users\SWalishe\Desktop\RECache\RECache\RECache.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.75
